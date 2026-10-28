@@ -1,0 +1,21 @@
+{
+  "test_images": 53,
+  "accuracy": 0.9433962264150944,
+  "precision_defective": 1.0,
+  "recall_defective": 0.8235294117647058,
+  "f1_defective": 0.9032258064516129,
+  "confusion_matrix": [
+    [
+      14,
+      3
+    ],
+    [
+      0,
+      36
+    ]
+  ],
+  "classes": [
+    "defective",
+    "normal"
+  ]
+}

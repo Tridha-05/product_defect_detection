@@ -1,0 +1,5 @@
+# Used only when DEPLOYING the frontend (lean list).
+streamlit>=1.40
+requests>=2.31
+pandas>=2.1
+pillow>=10.0
